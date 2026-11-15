@@ -24,3 +24,7 @@ claude plugin install lzrc-theme --marketplace kienluu78/lzrc-theme
 ```
 
 Answer `y` to add the marketplace, then pick a scope.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
