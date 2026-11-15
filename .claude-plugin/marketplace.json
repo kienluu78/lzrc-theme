@@ -1,0 +1,5 @@
+{
+  "name": "lzrc-theme",
+  "owner": { "name": "kienluu78" },
+  "plugins": [{ "name": "lzrc-theme", "source": "./" }]
+}
